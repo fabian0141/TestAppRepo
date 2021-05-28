@@ -1,0 +1,21 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.GTG.GTG-App</Name>
+  <DisplayName>GTG-App Base</DisplayName>
+  <Description>Install the base of the App.</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2021-05-26</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile OS="Any" UncompressedSize="73716432" CompressedSize="18546533"/>
+  <DownloadableArchives>lib.7z,plugins.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License file="license.txt" name="Beer Public License Agreement"/>
+  </Licenses>
+  <SHA1>b1810359f1a37456732ec5fc112b1acea4e62a4a</SHA1>
+ </PackageUpdate>
+ <SHA1>b1810359f1a37456732ec5fc112b1acea4e62a4a</SHA1>
+ <MetadataName>2021-05-28-2225_meta.7z</MetadataName>
+</Updates>
